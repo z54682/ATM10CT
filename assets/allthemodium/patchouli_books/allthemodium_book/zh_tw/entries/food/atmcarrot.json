@@ -1,0 +1,15 @@
+{
+    "name": "Allthemodium Carrot",
+    "icon": "allthemodium:allthemodium_carrot",
+    "category": "allthemodium:food",
+    "pages": [{
+            "type": "crafting",
+            "recipe": "allthemodium:allthemodium_carrot",
+            "title": "Allthemodium Carrot"
+        },
+        {
+            "type": "text",
+            "text": "Allthemodium 胡蘿蔔可以提供 40 點飢餓值和 320 點飽腹感。胡蘿蔔有以下效果：$(li)快速食用$(li)隨時可以食用$(li)吸收 X 持續 30 秒$(li)再生 X 持續 30 秒"
+        }
+    ]
+}

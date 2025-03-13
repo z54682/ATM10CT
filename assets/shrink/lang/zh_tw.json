@@ -1,0 +1,14 @@
+{
+    "item.mob_bottle.tooltip": "包含：%s",
+    "item.mob_bottle.tooltip_empty": "右鍵按兩下帶有玻璃瓶的縮小實體以捕獲",
+    "item.mob_bottle.tooltip_with_name": "包含：%s （%s）",
+    "item.shrink.shrink_bottle": "玻璃瓶",
+    "item.shrink.shrinking_device": "個人收縮裝置",
+    "itemGroup.shrink": "收縮",
+    "key.shrink.category": "收縮",
+    "key.shrink.shrink": "Toggle Shrink",
+    "shrink.deny_shrink": "由於 deny 標籤而阻止實體收縮",
+    "shrink.message.already_shrunk": "在已收縮時無法打開",
+    "shrink.message.missing": "缺少 Shrink 屬性",
+    "shrink.message.power": "動力不足"
+}

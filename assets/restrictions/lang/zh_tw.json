@@ -1,0 +1,7 @@
+{
+    "block.restrictions.pusher": "推離方塊",
+    "block.restrictions.attractor": "吸引方塊",
+    "block.restrictions.oneway": "單向推動方塊",
+
+    "itemGroup.restrictions": "Restrictions"
+}

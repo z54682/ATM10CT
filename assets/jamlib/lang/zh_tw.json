@@ -1,0 +1,19 @@
+{
+    "config.jamlib.selection_screen_title": "選擇 %s 的 Config",
+    "config.jamlib.open": "打開",
+    "config.jamlib.edit_manually": "手動編輯",
+    "config.jamlib.reset": "重置",
+    "config.jamlib.matches_regex_tooltip": "值應與以下正則表示式匹配： %s",
+    "config.jamlib.requires_restart_tooltip": "需要重新啟動才能使此更改生效",
+    "config.jamlib.within_range_tooltip": "值應介於 %d 和 %d 之間",
+    "text.jamlib.renamed_1": "以下mod檔已被重新命名- 這通常是mod為 %s 的標誌。",
+    "text.jamlib.renamed_1.1": "未經許可重新分發",
+    "text.jamlib.renamed_2": "%s %s 等網站 和可用於 %s。Mod 可以在 %s 和 %s 上找到。",
+    "text.jamlib.renamed_2.1": "9我的世界",
+    "text.jamlib.renamed_2.2": "傷害Mod作者",
+    "text.jamlib.renamed_2.3": "分發惡意軟體",
+    "text.jamlib.renamed_2.4": "詛咒熔爐",
+    "text.jamlib.renamed_2.5": "莫德林斯",
+    "text.jamlib.renamed_3": "此消息只會出現一次。%s 的",
+    "text.jamlib.renamed_3.1": "如果您認為這是誤報，請聯繫Mod作者"
+}

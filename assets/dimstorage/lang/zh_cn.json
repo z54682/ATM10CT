@@ -1,0 +1,43 @@
+{
+  "itemGroup.dimstorage_tab": "維度存儲",
+
+  "item.dimstorage.dim_core": "維度核心",
+  "item.dimstorage.solid_dim_core": "加固維度核心",
+  "item.dimstorage.dim_wall": "維度牆",
+  "item.dimstorage.dimensional_tablet": "維度板",
+
+  "block.dimstorage.dimensional_chest": "維度箱子",
+  "block.dimstorage.dimensional_tank": "維度儲罐",
+
+  "advancements.dimstorage.root": "維度核心",
+  "advancements.dimstorage.root.desc": "維度的力量",
+  "advancements.dimstorage.dimensional_chest": "維度箱子",
+  "advancements.dimstorage.dimensional_chest.desc": "一個更多連接的物品欄",
+  "advancements.dimstorage.dimensional_tablet": "維度板",
+  "advancements.dimstorage.dimensional_tablet.desc": "一個遠程物品欄",
+  "advancements.dimstorage.dimensional_tank": "維度儲罐",
+  "advancements.dimstorage.dimensional_tank.desc": "一個多重維度的儲罐",
+
+  "gui.dimstorage.change": "更改",
+  "gui.dimstorage.owner": "所有者：",
+  "gui.dimstorage.frequency": "頻率：",
+  "gui.dimstorage.locked": "上鎖：",
+  "gui.dimstorage.yes": "是",
+  "gui.dimstorage.no": "否",
+  "gui.dimstorage.collecting": "收集",
+  "gui.dimstorage.idle": "閒置",
+  "gui.dimstorage.eject": "自動輸出",
+  "gui.dimstorage.liquid": "液體：",
+  "gui.dimstorage.amount": "儲量：",
+  "gui.dimstorage.temperature": "溫度：",
+  "gui.dimstorage.luminosity": "亮度：",
+  "gui.dimstorage.gas": "氣體：",
+  "gui.dimstorage.empty": "空",
+
+  "message.dimstorage.adviceToLink": "@7按下 Shift + 右鍵來綁定一個維度箱子",
+  "message.dimstorage.holdShift": "@7按住 @b@oShift @7顯示詳情",
+  "message.dimstorage.changeAutoCollect": "@7對著一個不是維度箱子的方塊按下 @b@oShift @7+ 右鍵來打開或關閉自動收集",
+
+  "tooltip.dimstorage.collect": "當你在拾取物品時，這意味著維度箱子會收集 %dx%d 區域裡物品欄中的所有物品"
+
+}

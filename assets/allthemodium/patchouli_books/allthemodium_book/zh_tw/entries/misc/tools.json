@@ -1,0 +1,11 @@
+{
+    "name": "Allthemodium Tools",
+    "icon": "allthemodium:allthemodium_pickaxe",
+    "category": "allthemodium:misc",
+    "sortnum": 1,
+    "pages": [{
+            "type": "text",
+            "text": "Allthemodium 包含幾個內建工具，它們都是堅不可摧的。"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Allthemodium Ore",
+    "icon": "allthemodium:allthemodium_ore",
+    "category": "allthemodium:ore",
+    "sortnum": 1,
+    "pages": [{
+        "type": "spotlight",
+        "item": "allthemodium:allthemodium_ore",
+        "title": "Allthemodium Ore",
+        "link_recipe": false,
+        "text": "Allthemodium 礦石在深暗生物群系的洞穴牆壁和天花板中生成，你也可以在海拔 170Y 以上的高山上找到它，它也可以在 Y -59 和 Y 20 之間的採礦維度的任何地方找到。"
+    }]
+}

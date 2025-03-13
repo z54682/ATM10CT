@@ -1,0 +1,8 @@
+{
+	"gui.crafting_on_a_stick.prefix": "便攜式",
+	"gui.crafting_on_a_stick.suffix": "",
+	"item.crafting_on_a_stick.chipped_anvil": "開裂的便攜式鐵砧",
+	"item.crafting_on_a_stick.damaged_anvil": "損壞的便攜式鐵砧",
+	"curios.identifier.crafting_on_a_stick": "便攜式工具",
+	"crafting_on_a_stick.key.open_curios": "打開便攜式工具"
+}

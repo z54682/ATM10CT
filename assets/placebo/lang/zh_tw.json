@@ -1,0 +1,8 @@
+{
+    "key.categories.placebo": "安慰劑",
+    "placebo.toggleTrails": "Toggle Supporter Trails",
+    "placebo.toggleWings": "Toggle Supporter Wings",
+    "placebo.cmd.serialize_success": "將 %s 儲存到 %s。",
+    "placebo.cmd.serialize_failure": "序列化過程中發生錯誤。",
+    "placebo.cmd.not_found": "找不到 %s。"
+}

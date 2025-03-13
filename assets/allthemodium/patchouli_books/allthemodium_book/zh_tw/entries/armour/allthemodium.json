@@ -1,0 +1,28 @@
+{
+    "name": "Allthemodium Armour",
+    "icon": "allthemodium:allthemodium_chestplate",
+    "category": "allthemodium:armour",
+    "sortnum": 1,
+    "pages": [{
+            "type": "text",
+            "text": "Allthemodium 盔甲除了護甲、韌性和抗擊退性之外，還有幾個好處：$(li)水下呼吸$(li)使用鞘翅飛行時不會受到撞擊傷害$(li)免受火焰傷害$(li)無墜落傷害$(li)當你從 Netherite 升級盔甲時，它會保留附魔"
+        },
+        {
+            "type": "smithing",
+            "recipe": "allthemodium:smithing/allthemodium_helmet_smithing"
+        },
+
+        {
+            "type": "smithing",
+            "recipe": "allthemodium:smithing/allthemodium_chestplate_smithing"
+        },
+        {
+            "type": "smithing",
+            "recipe": "allthemodium:smithing/allthemodium_leggings_smithing"
+        },
+        {
+            "type": "smithing",
+            "recipe": "allthemodium:smithing/allthemodium_boots_smithing"
+        }
+    ]
+}

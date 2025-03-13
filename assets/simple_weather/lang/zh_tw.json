@@ -1,0 +1,21 @@
+{
+    "config.client.simple_weather.override_weather": "啟用",
+    "config.client.simple_weather.rain": "Rain Settings（雨設置）",
+    "config.client.simple_weather.snow": "Snow 設置",
+    "config.client.simple_weather.rain.rain_collision_percent": "碰撞粒子幾率",
+    "config.client.simple_weather.rain.rain_range": "範圍",
+    "config.client.simple_weather.weather_particle_count": "粒子計數",
+    "config.client.simple_weather.weather_particle_thunder_count": "Thunderstorm 中的粒子計數",
+    "config.client.simple_weather.rain.rain_particle_alpha": "阿爾法",
+    "config.client.simple_weather.rain.rain_lifetime": "壽命",
+    "config.client.simple_weather.rain.rain_particle_scale": "規模",
+    "config.client.simple_weather.rain.rain_random": "湍流",
+    "config.client.simple_weather.rain.rain_color_blending_frequency": "顏色混合頻率",
+    "config.client.simple_weather.rain.use_cached_aabb": "計算 AABB",
+    "config.client.simple_weather.rain.full_biome_lookup": "完整生物群系查找",
+    "config.client.simple_weather.snow.snow_particle_scale": "規模",
+    "config.client.simple_weather.snow.snow_lifetime": "壽命",
+    "config.client.simple_weather.snow.snow_range": "範圍",
+    "config.client.simple_weather.snow.snow_particle_alpha": "阿爾法",
+    "config.client.simple_weather.snow.snow_outer_range": "外距"
+}

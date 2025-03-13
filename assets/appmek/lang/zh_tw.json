@@ -1,0 +1,23 @@
+{
+    "text.appmek.chemical": "化學品",
+    "text.appmek.creative_tab": "應用能源：通用機械附屬",
+    "text.appmek.qio_frequency": "QIO頻率（%s）",
+    "item.appmek.chemical_cell_housing": "ME化學品元件外殼",
+    "item.appmek.chemical_storage_cell_1k": "1k ME化學品存儲元件",
+    "item.appmek.chemical_storage_cell_4k": "4k ME化學品存儲元件",
+    "item.appmek.chemical_storage_cell_16k": "16k ME化學品存儲元件",
+    "item.appmek.chemical_storage_cell_64k": "64k ME化學品存儲元件",
+    "item.appmek.chemical_storage_cell_256k": "256k ME化學品存儲元件",
+    "item.appmek.portable_chemical_cell_16k": "16k 便攜化學品元件",
+    "item.appmek.portable_chemical_cell_1k": "1k 便攜化學品元件",
+    "item.appmek.portable_chemical_cell_4k": "4k 便攜化學品元件",
+    "item.appmek.portable_chemical_cell_64k": "64k 便攜化學品元件",
+    "item.appmek.portable_chemical_cell_256k": "256k 便攜化學品元件",
+    "item.appmek.chemical_p2p_tunnel": "化學品P2P通道",
+    "item.appmek.creative_chemical_cell": "創造型ME化學品存儲元件",
+    "item.appmek.portable_chemical_storage_cell_16k": "16k便攜化學品元件",
+    "item.appmek.portable_chemical_storage_cell_1k": "1k便攜化學品元件",
+    "item.appmek.portable_chemical_storage_cell_4k": "4k便攜化學品元件",
+    "item.appmek.portable_chemical_storage_cell_64k": "64k便攜化學品元件",
+    "item.appmek.portable_chemical_storage_cell_256k": "256k便攜化學品元件"
+}

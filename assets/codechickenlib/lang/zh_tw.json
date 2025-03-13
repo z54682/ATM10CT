@@ -1,0 +1,20 @@
+{
+    "ccl.commands.count.fail": "未找到實體。",
+    "ccl.commands.count.total": "找到 %s 個實體。",
+    "ccl.commands.gc.after": "後：",
+    "ccl.commands.gc.before": "以前：",
+    "ccl.commands.gc.performing": "執行 GC..",
+    "ccl.commands.killall.fail": "未找到實體。",
+    "ccl.commands.killall.fail.player": "你不能用這個命令殺死玩家。",
+    "ccl.commands.killall.success": "殺死了 %s 個實體。",
+    "ccl.commands.killall.success.line": "已殺死 %s",
+    "ccl.energy_bar.capacity": "能力：",
+    "ccl.energy_bar.energy_storage": "儲能",
+    "ccl.energy_bar.rf": "射頻",
+    "ccl.energy_bar.stored": "資料處理：",
+    "ccl.fluid_tank.capacity": "能力：",
+    "ccl.fluid_tank.contains": "包含：",
+    "ccl.fluid_tank.fluid_storage": "流體儲存",
+    "ccl.fluid_tank.mb": "百萬",
+    "ccl.fluid_tank.stored": "資料處理："
+}

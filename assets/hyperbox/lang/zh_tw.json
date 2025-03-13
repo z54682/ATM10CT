@@ -1,0 +1,16 @@
+{
+    "block.hyperbox.hyperbox": "超級盒",
+    "block.hyperbox.hyperbox_preview": "超級盒",
+    "block.hyperbox.hyperbox_wall": "Hyperbox 牆",
+    "block.hyperbox.aperture": "孔徑",
+    "menu.hyperbox": "創建 Hyperbox 維度",
+    "menu.hyperbox.edit_dimension": "維度ID",
+    "menu.hyperbox.edit_name": "Hyperbox 名稱",
+    "menu.hyperbox.use_default_name_checkbox": "使用預設名稱",
+    "menu.hyperbox.save_and_enter": "保存並輸入",
+    "menu.hyperbox.save_and_exit": "保存並退出",
+    "menu.hyperbox.dimension_id_in_use": "維度ID已在使用",
+    "menu.hyperbox.message.no_id": "無法創建 hyperbox 維度：維度 ID 缺失或為空",
+    "menu.hyperbox.message.invalid_id": "無法創建 hyperbox 維度： 位置 %s 路徑中的非 [a-z0-9/._-] 字元",
+    "menu.hyperbox.message.existing_id": "無法建立 Hyperbox 維度： 維度 ID 已存在： %s"
+}

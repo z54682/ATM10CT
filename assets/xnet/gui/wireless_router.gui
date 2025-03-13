@@ -1,0 +1,15 @@
+window {
+    size(168,20)
+
+    bind('public','public')
+
+    panel('','vertical') {
+        bgthickness(2)
+        togglebutton('public','公開') {
+            channel('public')
+            desired(160,16)
+            tooltips('選中此選項後','頻道將會被公開')
+            check(true)
+        }
+    }
+}

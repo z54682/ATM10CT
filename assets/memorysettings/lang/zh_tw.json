@@ -1,0 +1,10 @@
+{
+    "warning.32bit": "您在64位系統上使用32位 java，請安裝 64 位 java。",
+    "warning.toomuch": "分配的記憶體數 （%s mb） 大於此包的建議內存量，最大值為：%s mb。建議系統使用的數量為：%s mb。\n",
+    "warning.toolow": "分配的記憶體 （%s mb） 少於此包的建議記憶體，最小值為：%s mb。建議系統使用的數量為：%s mb。\n",
+    "warning.overrecommended": "分配的記憶體數 （%s mb） 超過建議的系統內存量，建議使用：%s mb。\n",
+    "warning.underrecommended": "分配的記憶體 （%s mb） 少於建議的系統記憶體，建議為：%s mb。\n",
+    "warning.recommendedbelowmin": "為您的系統建議的 %s 低於此包所需的最小 %s mb。您可能會遇到頻繁口吃等問題。\n",
+    "button.howto": "打開指南",
+    "button.stopremind": "停止顯示"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Armour",
+    "description": "這將向你顯示有關不同裝甲選項的信息",
+    "icon": "allthemodium:allthemodium_helmet",
+    "sortnum": 4
+}

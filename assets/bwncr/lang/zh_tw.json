@@ -1,0 +1,20 @@
+{
+    "badwithernocookiereloaded.general.tooltip": "可以取消的全域基本聲音和事件",
+    "badwithernocookiereloaded.xtra.tooltip": "您可以取消的額外當地語系化聲音",
+    "badwithernocookiereloaded.localized settings.silenceus": "示例：entity.sheep.step - 使用 /listen 來表示其他聲音",
+    "bwncr.configuration.general": "常規",
+    "bwncr.config.silenceUs": "讓我們安靜",
+    "bwncr.config.silenceWither": "寂靜凋靈",
+    "bwncr.config.debugMode": "調試模式",
+    "bwncr.config.silenceTrader": "沉默交易者",
+    "bwncr.config.silenceLightning": "靜音閃電",
+    "bwncr.config.silenceDragon": "沉默之龍",
+    "text.autoconfig.bwncr.title": "Bad Wither No Cookie - 重裝上陣",
+    "text.autoconfig.bwncr.option.general": "常規",
+    "text.autoconfig.bwncr.option.general.silenceWither": "寂靜凋靈",
+    "text.autoconfig.bwncr.option.general.silenceTrader": "沉默交易者",
+    "text.autoconfig.bwncr.option.general.silenceDragon": "沉默之龍",
+    "text.autoconfig.bwncr.option.general.silenceLightning": "靜音閃電",
+    "text.autoconfig.bwncr.option.general.silenceUs": "讓我們安靜",
+    "text.autoconfig.bwncr.option.general.debugMode": "調試模式"
+}

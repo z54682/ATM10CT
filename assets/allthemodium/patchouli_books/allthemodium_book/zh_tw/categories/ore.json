@@ -1,0 +1,6 @@
+{
+	"name": "Ores",
+	"description": "這將向您顯示在哪裡可以找到 Allthemodium 特定礦石。",
+	"icon": "allthemodium:allthemodium_ore",
+	"sortnum": 2
+}

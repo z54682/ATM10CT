@@ -1,0 +1,9 @@
+{
+    "ctm.configuration.title": "CTM 配置",
+    "ctm.configuration.section.ctm.toml.title": "CTM 配置",
+    "ctm.configuration.section.ctm.toml": "CTM 配置",
+    "configuration.ctm.disable": "禁用 CTM",
+    "configuration.ctm.disable.tooltip": "完全禁用連接的紋理",
+    "configuration.ctm.connect_inside": "連接 CTM 內部",
+    "configuration.ctm.connect_inside.tooltip": "選擇是否斷開 CTM 塊上的內角 - https://imgur.com/eUywLZ4"
+}

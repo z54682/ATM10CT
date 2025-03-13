@@ -1,0 +1,15 @@
+{
+    "name": "Teleport Pad",
+    "icon": "allthemodium:teleport_pad",
+    "category": "allthemodium:dimensions",
+    "sortnum": 1,
+    "pages": [{
+            "type": "crafting",
+            "recipe": "allthemodium:teleport_pad"
+        },
+        {
+            "type": "text",
+            "text": "傳送板用於傳送至$(l:dimensions/miningdim)The Mining Dimension$(/c)，而傳送至$(l:dimensions/otherdim)The Other$(/c) 則需要用空手和副手按住 Shift 鍵並單擊右鍵。"
+        }
+    ]
+}

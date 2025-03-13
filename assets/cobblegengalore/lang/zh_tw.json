@@ -1,0 +1,11 @@
+{
+    "jei.cobblegengalore.blockgen": "區塊生成器",
+    "block_gen.tooltip": "速度修正：%s",
+    "block.cobblegengalore.block_gen_stone": "石塊生成器",
+    "block.cobblegengalore.block_gen_copper": "銅塊發生器",
+    "block.cobblegengalore.block_gen_iron": "鐵塊生成器",
+    "block.cobblegengalore.block_gen_gold": "金塊生成器",
+    "block.cobblegengalore.block_gen_emerald": "Emerald Block 產生器",
+    "block.cobblegengalore.block_gen_diamond": "金剛石塊生成器",
+    "block.cobblegengalore.block_gen_netherite": "Netherite Block 產生器"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "The Mining Dimension",
+    "icon": "allthemodium:allthemodium_ore",
+    "category": "allthemodium:dimensions",
+    "sortnum": 2,
+    "pages": [{
+        "type": "text",
+        "text": "礦維度對於設置採石場很有用。若要傳送到該維度，請使用 Overworld 中的 $(l:dimensions/teleport_pad)Teleport Pad$(/c)。"
+    }]
+}

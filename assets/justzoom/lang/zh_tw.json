@@ -1,0 +1,19 @@
+{
+    "justzoom.keybinds.category": "只需縮放",
+    "justzoom.keybinds.keybind.zoom": "縮放",
+    "justzoom.options": "僅縮放選項",
+    "justzoom.options.base_zoom_modifier": "基礎 FOV 修改器：",
+    "justzoom.options.base_zoom_modifier.desc": "縮放時 Mod 應從 FOV 修飾符開始。\n這應該是介於 0.0 和 1.0 之間的浮點值。\n值越小，表示視圖縮放越大。",
+    "justzoom.options.zoom_in_change_modifier_per_scroll": "每次捲動的放大修飾符更改：",
+    "justzoom.options.zoom_in_change_modifier_per_scroll.desc": "滾動時 FOV 修改器應更改多少。\n值越大，縮放的平滑度越差。",
+    "justzoom.options.zoom_out_change_modifier_per_scroll": "每次捲動的縮小修飾鍵更改：",
+    "justzoom.options.zoom_out_change_modifier_per_scroll.desc": "滾動時 FOV 修改器應更改多少。\n值越大，縮放的平滑度越差。",
+    "justzoom.options.smooth_zoom_in_out": "平滑縮放： %s",
+    "justzoom.options.smooth_zoom_in_out.desc": "放大/縮小時 FOV 是否應平滑變化。",
+    "justzoom.options.smooth_camera_movement_on_zoom": "平滑的攝像機移動：%s",
+    "justzoom.options.smooth_camera_movement_on_zoom.desc": "變焦時攝像機是否應平滑移動 （電影）。",
+    "justzoom.options.normalize_mouse_sensitivity_on_zoom": "規範化滑鼠敏感度： %s",
+    "justzoom.options.normalize_mouse_sensitivity_on_zoom.desc": "如果滑鼠靈敏度應根據縮放檢視進行調整，\n所以在縮放時移動滑鼠時感覺很正常，不會太快。",
+    "justzoom.options.toggle.enabled": "啟用",
+    "justzoom.options.toggle.disabled": "禁用"
+}

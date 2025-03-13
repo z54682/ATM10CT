@@ -1,0 +1,7 @@
+{
+  "cos.key.opencosarmorinventory": "\u6253\u958b\u6642\u88dd\u7269\u54c1\u6b04",
+  "cos.gui.buttoncos": "\u6642\u88dd",
+  "cos.gui.buttonnormal": "\u666e\u901a",
+  "cos.command.clearcosarmor.success.single": "\u5df2\u5f9e\u73a9\u5bb6%2$s\u7684\u6642\u88dd\u7269\u54c1\u6b04\u88e1\u79fb\u9664\u4e86%1$s\u500b\u7269\u54c1",
+  "cos.command.clearcosarmor.success.multiple": "\u5df2\u5f9e%2$s\u540d\u73a9\u5bb6\u7684\u6642\u88dd\u7269\u54c1\u6b04\u88e1\u79fb\u9664\u4e86%1$s\u500b\u7269\u54c1"
+}

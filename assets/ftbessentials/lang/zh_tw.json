@@ -1,0 +1,11 @@
+{
+    "sidebar_button.ftbessentials.trash_can": "垃圾桶",
+    "ftbessentials.chat.status.start_record": "正在錄製中！",
+    "ftbessentials.chat.status.stop_record": "不再錄製！",
+    "ftbessentials.chat.status.start_stream": "正在流式傳輸！",
+    "ftbessentials.chat.status.stop_stream": "不再流式傳輸！",
+    "ftbessentials.messages.kick_self": "你踢自己一腳！",
+    "ftbessentials.feedback.limit_radius": "將半徑限制為 %s",
+    "ftbessentials.feedback.players_within": "%s 個玩家在 %sm 內",
+    "ftbessentials.teleport_prevented": "傳送被阻止了！"
+}

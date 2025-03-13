@@ -1,0 +1,15 @@
+{
+    "name": "Allthemodium Apple",
+    "icon": "allthemodium:allthemodium_apple",
+    "category": "allthemodium:food",
+    "pages": [{
+            "type": "crafting",
+            "recipe": "allthemodium:allthemodium_apple",
+            "title": "Allthemodium Apple"
+        },
+        {
+            "type": "text",
+            "text": "Allthemodium 蘋果能讓人飢餓度增加 20 點，飽足感增加 80 點。蘋果有以下效果：$(li)快速食用$(li)隨時可以食用$(li)吸收 X 持續 30 秒$(li)再生 X 持續 30 秒"
+        }
+    ]
+}

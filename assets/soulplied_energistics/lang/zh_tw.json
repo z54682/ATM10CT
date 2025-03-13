@@ -1,0 +1,6 @@
+{
+    "soulkey.name": "守望者之魂",
+    "soulkey.description": "靈魂",
+    "soulpliedenergistics.can_be_used_filter": "*可以在 AE2 介面中用於請求靈魂*",
+    "soulpliedenergistics.storage_bus": "*靈魂可以使用頂部的 AE2 存儲總線訪問*"
+}

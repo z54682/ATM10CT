@@ -1,0 +1,10 @@
+{
+    "name": "The Other",
+    "icon": "allthemodium:other_vibranium_ore",
+    "category": "allthemodium:dimensions",
+    "sortnum": 3,
+    "pages": [{
+        "type": "text",
+        "text": "The Other 是一個非常充滿敵意的向度。若要傳送到該維度，請使用下界中的$(l:dimensions/teleport_pad)Teleport Pad$(/c)。人們對這個地方知之甚少，但它似乎是 Piglins 的起源地，任何表面有樹木覆蓋的生物群系中都存在巨大的地下城市，以及充滿怪物和戰利品的地牢和古代金字塔"
+    }]
+}

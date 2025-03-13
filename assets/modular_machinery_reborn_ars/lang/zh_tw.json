@@ -1,0 +1,71 @@
+{
+  "itemGroup.modular_machinery_reborn_ars.group": "模塊化機械:重製版 新生魔藝附屬",
+
+  "modular_machinery_reborn.gui.title.source_hatch": "魔源倉",
+
+  "craftcheck.failure.source.input": "缺少魔源輸入, 需要 %s 魔源,但找到 %s 魔源！",
+  "craftcheck.failure.source.output": "沒有足夠的空間用於魔源輸出, 需要: %s 魔源,但找到 %s 魔源空餘！",
+
+  "component.missing.source.output": "未找到魔源輸出倉！",
+  "component.missing.source.input": "未找到魔源輸出倉",
+
+  "tooltip.sourcehatch.empty": "空",
+  "tooltip.sourcehatch.storage": "最大存儲 %s 魔源",
+  "tooltip.sourcehatch.charge": "%s / %s 魔源",
+
+  "block.modular_machinery_reborn_ars.sourceinputhatch_tiny": "微型魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_small": "小型魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_normal": "中型魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_reinforced": "強化魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_big": "大型魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_huge": "巨型魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_ludicrous": "超級魔源輸入倉",
+  "block.modular_machinery_reborn_ars.sourceinputhatch_vacuum": "真空魔源輸入倉",
+
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_tiny": "微型魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_small": "小型魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_normal": "中型魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_reinforced": "強化魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_big": "大型魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_huge": "巨型魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_ludicrous": "超級魔源輸出倉",
+  "block.modular_machinery_reborn_ars.sourceoutputhatch_vacuum": "真空魔源輸出倉",
+
+  "text.autoconfig.modular_machinery_reborn.category.source_hatch": "魔源倉",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.TINY": "微型魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.TINY.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.SMALL": "小型魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.SMALL.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.NORMAL": "中型魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.NORMAL.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.REINFORCED": "強化魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.REINFORCED.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.BIG": "大型魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.BIG.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.HUGE": "巨型魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.HUGE.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.LUDICROUS": "超級魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.LUDICROUS.size": "容積",
+
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.VACUUM": "真空魔源倉",
+  "text.autoconfig.modular_machinery_reborn.option.sourceHatch.VACUUM.size": "容積",
+
+  "modular_machinery_reborn_ars.jei.ingredient.source.input": "需要: %s 魔源",
+  "modular_machinery_reborn_ars.jei.ingredient.source.output": "產出: %s 魔源",
+  "modular_machinery_reborn_ars.jei.ingredient.source.amount": "%s 魔源",
+
+  "modular_machinery_reborn_ars.connections.send": "已設定機器將魔源傳輸到 %s",
+  "modular_machinery_reborn_ars.connections.take": "已設定機器從 %s 抽取魔源",
+  "modular_machinery_reborn_ars.connections.fail": "距離過遠.",
+  "modular_machinery_reborn_ars.relay.no_from": "未設定魔源傳輸目標位置",
+  "modular_machinery_reborn_ars.relay.no_to": "未設定魔源抽取位置",
+  "modular_machinery_reborn_ars.relay.one_from": "正在從 %d 個位置抽取魔源",
+  "modular_machinery_reborn_ars.relay.one_to": "正在傳輸魔源至 %d 個位置"
+}
