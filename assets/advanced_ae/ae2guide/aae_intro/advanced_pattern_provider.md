@@ -22,7 +22,9 @@ item_ids:
 </GameScene>
 </Row>
 
-ME 高級樣板供應器 是一種新型的 <ItemLink id="ae2:pattern_provider" />，可升級標準版本或 <ItemLink id="extendedae:ex_pattern_provider" /> ，具有將臉部配置為模式中的任何單一項目都將推送到該位置。這項強大的附加功能可實現機器自動化需要使用單一區塊而不是管道來完成特定輸入的特定方面！
+ME 高級樣板供應器 是一種新型的 <ItemLink id="ae2:pattern_provider" />，可升級標準版本或 <ItemLink id="extendedae:ex_pattern_provider" /> ，
+具有將臉部配置為模式中的任何單一項目都將推送到該位置。這項強大的附加功能可實現機器自動化需要使用單一區塊
+而不是管道來完成特定輸入的特殊需求！
 
 *看著你，Mekanism。*
 

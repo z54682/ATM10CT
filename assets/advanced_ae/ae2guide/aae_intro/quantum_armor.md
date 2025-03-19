@@ -50,13 +50,19 @@ item_ids:
 * <ItemLink id="advanced_ae:quantum_leggings" />
 * <ItemLink id="advanced_ae:quantum_boots" />
 
-您是否想過穿戴 AE 系統會是什麼感覺？嗯，你不用再疑惑了。量子盔甲套裝是一種高科技的隱形服裝，可連接到 AE2 系統，方便訪問一切準備就緒！預設情況下，它是一件能量驅動的套裝，其防禦力可與 Netherite 裝備相媲美。它能夠使用其緩衝區來創建能量盾，提供大量的傷害吸收。這款靴子還提供可以消除掉落傷害，而胸甲可以消除飛行採礦的懲罰。然而，這套戰衣的真正威力在於只有當您用升級填充它時才解鎖！
+您是否想過穿戴 AE 系統會是什麼感覺？嗯，你不用再疑惑了。量子盔甲套裝是一種高科技的隱形服裝，
+可連接到 AE2 系統，方便訪問一切準備就緒！預設情況下，它是一件能量驅動的套裝，
+其防禦力可與 Netherite 裝備相媲美。它能夠使用其緩衝區來創建能量盾，提供大量的傷害吸收。
+這款靴子還提供可以消除掉落傷害，而胸甲可以消除飛行採礦的懲罰。然而，
+這套戰衣的真正威力在於只有當您用升級它時才解鎖！
 
 <br/>
 
 ## 連接鎧甲
 
-裝甲部件可以單獨連接到系統，只需將它們插入到<ItemLink id="ae2:wireless_access_point" />。這將根據裝備和安裝的升級解鎖不同的特權。稍後將詳細介紹。請注意，為了讓這些額外功能正常運作，你還需要在連接的接入點。
+裝甲部件可以單獨連接到系統，只需將它們插入到<ItemLink id="ae2:wireless_access_point" />。
+這將根據裝備和安裝的升級解鎖不同的特權。稍後將詳細介紹。請注意，為了讓這些額外功能正常運作，
+你還需要在網路範圍內。
 <br/>
 
 ## 安裝升級
@@ -81,7 +87,8 @@ item_ids:
 
 <ItemImage id="advanced_ae:auto_feeding_card" scale="2"></ItemImage>
 
-<ItemLink id="advanced_ae:auto_feeding_card" /> 允許選擇要用來餵食的特定物品播放器。只需將所需物品拖入過濾器槽，如果裝置連結到 AE2 網路，它將嘗試在系統中找到它們並在玩家飢餓時餵食。
+<ItemLink id="advanced_ae:auto_feeding_card" /> 允許選擇要用來餵食的特定物品播放器。只需將所需物品拖入過濾器槽，
+如果裝置連結到 AE2 網路，它將嘗試在系統中找到它們並在玩家飢餓時餵食。
 
 <br/>
 
@@ -89,7 +96,9 @@ item_ids:
 
 <ItemImage id="advanced_ae:auto_stock_card" scale="2"></ItemImage>
 
-<ItemLink id="advanced_ae:auto_stock_card" /> 也要求將裝置連結到 AE2 系統，並且接入點的適當範圍。它可以使一些堆疊的配置始終保持在特定數量在用戶庫存中。插槽不限於堆疊，因此您可以將它們設定為填充多個插槽如果您願意的話，可以隨時查看庫存。
+<ItemLink id="advanced_ae:auto_stock_card" /> 也要求將裝置連結到 AE2 系統，並且接入點的適當範圍。
+它可以使一些堆疊的配置始終保持在特定數量在用戶庫存中。插槽不限於堆疊，因此您可以將它們設定為填充多個插槽如果您願意的話，
+可以隨時查看庫存。
 <br/>
 
 ## 速度卡
@@ -104,7 +113,8 @@ item_ids:
 * <ItemLink id="advanced_ae:sprint_speed_card" />
 * <ItemLink id="advanced_ae:swim_speed_card" />
 
-這些升級卡可以提高套裝佩戴者的移動速度。它們都有可配置的值，以決定你想要的速度並且也會影響潛行和飛行時的移動。值得注意的是，這些升級還可用於當其他加速效果存在時，降低速度以達到更好的控制。
+這些升級卡可以提高套裝佩戴者的移動速度。它們都有可配置的值，以決定你想要的速度並且也會影響潛行和飛行時的移動。
+值得注意的是，這些升級還可用於當其他加速效果存在時，降低速度以達到更好的控制。
 <br/>
 
 ## 高度卡
@@ -130,11 +140,13 @@ item_ids:
 
 ### 飛行卡
 
-安裝 <ItemLink id="advanced_ae:flight_card" /> 後可實現創意飛行。飛行速度可配置使用 UI 中的滑桿。它還會受到步行/衝刺速度升級的影響。
+安裝 <ItemLink id="advanced_ae:flight_card" /> 後可實現創意飛行。飛行速度可配置使用 UI 中的滑桿。
+它還會受到步行/衝刺速度升級的影響。
 
 ### 飛行慣性卡
 
-<ItemLink id="advanced_ae:flight_drift_card" /> 僅在安裝了飛行卡時才有效，並且它添加了另一個配置滑桿來改變影響創意飛行的慣性。值越低，停止速度越快，停止當該值設為 0 時立即生效。
+<ItemLink id="advanced_ae:flight_drift_card" /> 僅在安裝了飛行卡時才有效，並且它添加了另一個配置滑桿來改變影響創意飛行的慣性。
+值越低，停止速度越快，停止當該值設為 0 時立即生效。
 
 <br/>
 
@@ -142,7 +154,8 @@ item_ids:
 
 <ItemImage id="advanced_ae:recharging_card" scale="2"></ItemImage>
 
-<ItemLink id="advanced_ae:recharging_card" /> 可為所裝備的物品實現無線充電。這需要一個連接到電網並處於存取點的範圍內。在胸甲上安裝此升級有額外的好處也可以對庫存槽進行充電。
+<ItemLink id="advanced_ae:recharging_card" /> 可為所裝備的物品實現無線充電。這需要一個連接到電網並處於存取點的範圍內。
+在胸甲上安裝此升級有額外的好處也可以對庫存槽進行充電。
 
 <br/>
 
@@ -150,7 +163,8 @@ item_ids:
 
 <ItemImage id="advanced_ae:portable_workbench_card" scale="2"></ItemImage>
 
-<ItemLink id="advanced_ae:portable_workbench_card" /> 為量子套裝增加了一個便攜式細胞工作台。打開它，您需要按下配置的熱鍵。它的工作方式與區塊形式相同。
+<ItemLink id="advanced_ae:portable_workbench_card" /> 為量子套裝增加了一個便攜式細胞工作台。打開它，您需要按下配置的熱鍵。
+它的工作方式與區塊形式相同。
 
 <br/>
 
@@ -158,7 +172,8 @@ item_ids:
 
 <ItemImage id="advanced_ae:pick_craft_card" scale="2"></ItemImage>
 
-<ItemLink id="advanced_ae:pick_craft_card" /> 為盔甲新增了新的熱鍵功能。按下它將嘗試製作玩家目前瞄準的方塊。此功能需要連結到網格和模式與目標相符。將出現一個彈出窗口，要求輸入所需的金額，其過程與正常的自動製作請求會。
+<ItemLink id="advanced_ae:pick_craft_card" /> 為盔甲新增了新的熱鍵功能。按下它將嘗試製作玩家目前瞄準的方塊。
+此功能需要連結到網格和模式與目標相符。將出現一個彈出窗口，要求輸入所需的金額，其過程與正常的自動製作請求會。
 
 <br/>
 
@@ -176,7 +191,8 @@ item_ids:
 * <ItemLink id="advanced_ae:water_breathing_card" />
 * <ItemLink id="advanced_ae:magnet_card" />
 
-這些卡牌為套裝佩戴者提供了多種實用功能，使其免受某些傷害並獲得夜間想像。磁卡有一個配置螢幕，你可以在其中設定要拾取或不拾取的過濾器並配置其範圍。
+這些卡牌為套裝佩戴者提供了多種實用功能，使其免受某些傷害並獲得夜間想像。磁卡有一個配置螢幕，
+你可以在其中設定要拾取或不拾取的過濾器並配置其範圍。
 
 <br/>
 
@@ -192,7 +208,8 @@ item_ids:
 * <ItemLink id="advanced_ae:regeneration_card" />
 * <ItemLink id="advanced_ae:evasion_card" />
 
-這些升級以各種形式為套裝佩戴者提供防禦優勢。生命值佩戴者將增加最大健康，而再生卡將增加其恢復的速度。逃避卡提供完整的有機會對任何傷害源免疫。
+這些升級以各種形式為套裝佩戴者提供防禦優勢。生命值提升卡將增加最大生命，而再生卡將增加其生命恢復速度。
+閃避卡提供完整的有機會對任何傷害源免疫。
 
 <br/>
 
@@ -220,7 +237,8 @@ item_ids:
 * <ItemLink id="advanced_ae:luck_card" />
 * <ItemLink id="advanced_ae:reach_card" />
 
-這些升級卡為佩戴者提供固定的屬性提升，影響運氣，從而獲得更好的戰利品並阻擋範圍距離。可以將到達卡配置為特定的期望值。
+這些升級卡為佩戴者提供固定的屬性提升，幸運卡影響運氣，從而獲得更好的戰利品。
+交互範圍卡影響操作距離。
 
 <br/>
 

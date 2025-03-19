@@ -17,7 +17,8 @@ item_ids:
 <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-吞吐量監控器是監視器的亞型。他們提供相同的功能 <itemLink ID ="AE2:storege_monitor" />確實，加上吞吐量儀表。將跟踪單個項目/流體類型，並將監視器更改為其數量，向用戶顯示每秒的流量。
+吞吐量監控器是監視器的亞型。他們提供相同的功能 <ItemLink id="ae2:storage_monitor" />確實，加上吞吐量儀表。
+將跟踪單個項目/流體類型，並將監視器更改為其數量，向用戶顯示每秒的流量。
 
 它*不需要*一個頻道。
 

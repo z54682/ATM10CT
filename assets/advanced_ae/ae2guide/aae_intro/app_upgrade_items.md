@@ -19,7 +19,8 @@ AdvancedAE 提供者項目可讓您升級模式提供程序，而無需移動所
 
 <ItemImage id="advanced_ae:adv_pattern_provider_upgrade" scale="3"></ItemImage>
 
-這些升級可用於常規 AE 模式提供者和 ExtendedAE 的擴充模式提供者。使用它這些機器將升級到高級版本，並保留與以前相同的插槽數量。這意味著您不會遺失用於將常規提供者升級為擴展提供者的材料。
+這些升級可用於常規 AE 模式提供者和 ExtendedAE 的擴充模式提供者。使用它這些機器將升級到高級版本，
+並保留與以前相同的插槽數量。這意味著您不會遺失用於將常規提供者升級為擴展提供者的材料。
 
 ## 進階模式提供者容量升級
 <ItemImage id="advanced_ae:adv_pattern_provider_capacity_upgrade" scale="3"></ItemImage>

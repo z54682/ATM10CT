@@ -15,5 +15,5 @@ item_ids:
   <ImportStructure src="../structure/cable_import_export_bus.snbt"></ImportStructure>
 </GameScene>
 
-Import Export bus 是 <ItemLink id="ae2:import_bus" /> 和 <ItemLink id="ae2:export_bus" /> 的混合。這
-可以設定過濾器來配置導出的堆疊。任何不在過濾器上的東西都是要導入的有效堆疊。
+Import Export bus 是 <ItemLink id="ae2:import_bus" /> 和 <ItemLink id="ae2:export_bus" /> 的混合。
+這可以設定過濾器來配置導出的堆疊。任何不在過濾器上的東西都是要導入的有效堆疊。
